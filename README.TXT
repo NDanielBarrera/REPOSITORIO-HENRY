@@ -1,0 +1,1 @@
+Creo el archivo para inicializar la carpeta en Git
